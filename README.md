@@ -232,6 +232,7 @@ Skills work across multiple platforms:
 - [theme-factory](https://github.com/anthropics/skills/tree/main/skills/theme-factory) - Theme style factory Skill.
 - [algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art) - Algorithmic art generation Skill.
 - [slack-gif-creator](https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator) - Slack GIF creator Skill.
+- [product-launch-motion](https://github.com/AbubakrChan/product-launch-motion) - Turn a website URL into a 60 fps launch video with music and sound effects.
 
 ## Contributing
 
