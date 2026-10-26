@@ -950,6 +950,16 @@
     "url": "https://github.com/d1vai/d1v-cli/blob/main/skills/d1v/SKILL.md"
   },
   {
+    "name": "cloud-finops-skills",
+    "nameZh": "cloud-finops-skills",
+    "desc": "云与 AI 成本管理（FinOps）Skill：计费机制、承诺折扣、成本分摊与浪费模式排查手册，覆盖 AWS/Azure/GCP",
+    "descEn": "Cloud and AI cost management Skill: billing mechanics, commitments, allocation and waste-pattern runbooks for AWS, Azure and GCP",
+    "stars": "-",
+    "platform": "cursor/claude/copilot/windsurf/codex",
+    "category": "devops",
+    "url": "https://github.com/OptimNow/cloud-finops-skills"
+  },
+  {
     "name": "d3-visualization",
     "nameZh": "d3-visualization",
     "desc": "D3.js 数据可视化 Skill",
