@@ -24,7 +24,7 @@
     "nameZh": "agentskills/agentskills",
     "desc": "Agent Skills 官方规范与文档仓库",
     "descEn": "Official Agent Skills specification and documentation repository",
-    "stars": "26.1k",
+    "stars": "26.3k",
     "platform": "all",
     "category": "official",
     "url": "https://github.com/agentskills/agentskills"
@@ -34,7 +34,7 @@
     "nameZh": "anthropics/skills",
     "desc": "Anthropic 官方 Agent Skills 仓库",
     "descEn": "Official Anthropic Agent Skills repository",
-    "stars": "180.6k",
+    "stars": "182.0k",
     "platform": "all",
     "category": "official",
     "url": "https://github.com/anthropics/skills"
@@ -174,7 +174,7 @@
     "nameZh": "awesome-cursorrules",
     "desc": "最全面的 Cursor Rules 合集",
     "descEn": "The most comprehensive Cursor Rules collection",
-    "stars": "40.9k",
+    "stars": "41.0k",
     "platform": "cursor",
     "category": "collection",
     "url": "https://github.com/PatrickJS/awesome-cursorrules"
@@ -204,7 +204,7 @@
     "nameZh": "mblode/agent-skills",
     "desc": "开源 Agent Skills 合集，覆盖 UI 审计、排版、文档、PR 审查与发布",
     "descEn": "Open-source agent skills for UI audits, typography, documentation, PR review, and releases",
-    "stars": "144",
+    "stars": "151",
     "platform": "all",
     "category": "collection",
     "url": "https://github.com/mblode/agent-skills"
@@ -224,7 +224,7 @@
     "nameZh": "ComposioHQ/awesome-claude-skills",
     "desc": "Composio 维护的 Claude Skills 合集",
     "descEn": "Claude Skills collection by Composio",
-    "stars": "76.9k",
+    "stars": "77.4k",
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/ComposioHQ/awesome-claude-skills"
@@ -234,7 +234,7 @@
     "nameZh": "awesome-claude-code",
     "desc": "Claude Code skills/hooks/插件合集",
     "descEn": "Claude Code skills/hooks/plugins collection",
-    "stars": "55.5k",
+    "stars": "56.0k",
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/hesreallyhim/awesome-claude-code"
@@ -304,7 +304,7 @@
     "nameZh": "claude-code-kit",
     "desc": "Claude Code 工具包，自动激活 skills",
     "descEn": "Claude Code toolkit with auto-activating skills",
-    "stars": "106",
+    "stars": "107",
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/blencorp/claude-code-kit"
@@ -324,7 +324,7 @@
     "nameZh": "skillkit",
     "desc": "跨平台 Skills 管理器，可安装、转换并同步 Skills 到 40+ Agent",
     "descEn": "Cross-platform skills manager that installs, translates, and syncs skills across 40+ agents",
-    "stars": "1.5k",
+    "stars": "1.6k",
     "platform": "all",
     "category": "collection",
     "url": "https://github.com/rohitg00/skillkit"
@@ -334,7 +334,7 @@
     "nameZh": "OrkasVideoStudio",
     "desc": "面向 Agent 的视频制作 Skills 合集，配套 CLI 与 MCP 运行时",
     "descEn": "Agent video-production skill pack with CLI and MCP runtime",
-    "stars": "500",
+    "stars": "331",
     "platform": "all",
     "category": "collection",
     "url": "https://github.com/Orkas-AI/Orkas-VideoStudio"
@@ -344,7 +344,7 @@
     "nameZh": "Skywork-Skills",
     "desc": "Skywork 官方维护的 agent skills，面向 AI 办公场景，覆盖 PPT、文档、Excel、设计、搜索和音乐工作流",
     "descEn": "Officially maintained Skywork agent skills for AI office workflows, including PPT, documents, Excel, design, search, and music",
-    "stars": "203",
+    "stars": "204",
     "platform": "all",
     "category": "collection",
     "url": "https://github.com/SkyworkAI/Skywork-Skills"
@@ -504,7 +504,7 @@
     "nameZh": "vercel-labs/agent-skills",
     "desc": "Vercel React/Web 设计最佳实践 Skills",
     "descEn": "Vercel React/Web design best practices Skills",
-    "stars": "32.3k",
+    "stars": "32.6k",
     "platform": "all",
     "category": "devtools",
     "url": "https://github.com/vercel-labs/agent-skills"
@@ -524,7 +524,7 @@
     "nameZh": "supabase/agent-skills",
     "desc": "Supabase Postgres 最佳实践 Skill",
     "descEn": "PostgreSQL best practices Skill by Supabase",
-    "stars": "2.8k",
+    "stars": "2.9k",
     "platform": "all",
     "category": "devtools",
     "url": "https://github.com/supabase/agent-skills"
@@ -544,7 +544,7 @@
     "nameZh": "expo/skills",
     "desc": "Expo/React Native 开发 Skills",
     "descEn": "Expo/React Native development Skills",
-    "stars": "2.8k",
+    "stars": "2.9k",
     "platform": "all",
     "category": "devtools",
     "url": "https://github.com/expo/skills"
@@ -554,7 +554,7 @@
     "nameZh": "browser-use/browser-use",
     "desc": "浏览器自动化 Skill",
     "descEn": "Browser automation Skill",
-    "stars": "117.7k",
+    "stars": "118.4k",
     "platform": "all",
     "category": "devtools",
     "url": "https://github.com/browser-use/browser-use"
@@ -564,7 +564,7 @@
     "nameZh": "Xquik x-twitter-scraper",
     "desc": "X（Twitter）数据平台 Skill，提供 REST API、MCP 工具、webhooks、SDK 和自动化工作流",
     "descEn": "X (Twitter) data Skill with REST endpoints, MCP tools, webhooks, SDKs, and automation workflows",
-    "stars": "212",
+    "stars": "214",
     "platform": "all",
     "category": "devtools",
     "url": "https://github.com/Xquik-dev/x-twitter-scraper"
@@ -734,7 +734,7 @@
     "nameZh": "obra/superpowers",
     "desc": "完整开发工作流（调试/TDD/代码审查/计划）",
     "descEn": "Complete dev workflow (Debug/TDD/Code Review/Planning)",
-    "stars": "297.8k",
+    "stars": "301.7k",
     "platform": "all",
     "category": "productivity",
     "url": "https://github.com/obra/superpowers"
@@ -764,7 +764,7 @@
     "nameZh": "coreyhaines31/marketingskills",
     "desc": "营销 Skills（SEO/文案/CRO/广告）",
     "descEn": "Marketing Skills (SEO/Copywriting/CRO/Ads)",
-    "stars": "54.3k",
+    "stars": "55.4k",
     "platform": "all",
     "category": "productivity",
     "url": "https://github.com/coreyhaines31/marketingskills"
@@ -878,6 +878,16 @@
     "platform": "claude",
     "category": "productivity",
     "url": "https://github.com/tlgrcli/tlgr/tree/main/plugin/skills/tlgr"
+  },
+  {
+    "name": "placecall",
+    "nameZh": "placecall",
+    "desc": "让 Agent 给美国商家拨打真实电话（订位、咨询、询价），返回通话结果与文字记录。依赖托管 API（网络与数据说明），通话会录音并保存 90 天",
+    "descEn": "Places real phone calls to US businesses for reservations, inquiries and quotes, and returns the outcome and transcript. Uses a hosted API (network and data); calls are recorded and kept 90 days",
+    "stars": "-",
+    "platform": "cursor/claude/codex/openclaw",
+    "category": "productivity",
+    "url": "https://github.com/voygr-tech/placecall/tree/main/skills/placecall"
   },
   {
     "name": "devops-claude-skills",
