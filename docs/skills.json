@@ -710,6 +710,16 @@
     "url": "https://github.com/supercorp-ai/supercov/tree/main/plugins/supercov/skills/supercov"
   },
   {
+    "name": "write-ai-ready-issue",
+    "nameZh": "write-ai-ready-issue",
+    "desc": "把当前对话整理成 GitHub Issue（背景、可在仓库里用测试验证的验收项、不做的范围），任务包含多个可独立合并的结果时先建议拆分。来自开源编程 agent Orbi，单独使用不需要 Orbi",
+    "descEn": "Turns a conversation into a GitHub Issue with Background, testable Acceptance criteria and Out of scope, splitting tasks that have more than one mergeable result. Part of the open-source Orbi coding agent; the skill itself does not need Orbi",
+    "stars": "-",
+    "platform": "cursor/claude/copilot/codex",
+    "category": "devtools",
+    "url": "https://github.com/orbi-build/orbi/tree/main/integrations/claude-plugin/skills/write-ai-ready-issue"
+  },
+  {
     "name": "claude-code-workflows",
     "nameZh": "claude-code-workflows",
     "desc": "生产级开发工作流，自动化质量检查",
