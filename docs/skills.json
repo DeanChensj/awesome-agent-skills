@@ -390,6 +390,16 @@
     "url": "https://github.com/tonone-ai/tonone"
   },
   {
+    "name": "oh-my-agent",
+    "nameZh": "oh-my-agent",
+    "desc": "33 个技能和 21 个工作流，统一放在 .agents/skills，按条目软链接到 Claude Code、Codex、Cursor 等工具的技能目录；oma link --dry-run 先预览要写的文件",
+    "descEn": "33 skills and 21 workflows kept in one .agents/skills folder and symlinked per skill into Claude Code, Codex, Cursor and other runtimes; oma link --dry-run previews what it will write",
+    "stars": "1.4k",
+    "platform": "claude",
+    "category": "collection",
+    "url": "https://github.com/first-fluke/oh-my-agent"
+  },
+  {
     "name": "agenttrace-session-audit",
     "nameZh": "agenttrace-session-audit",
     "desc": "审计本地 AI 编程 Agent 会话的健康度、成本、失败与差异",
