@@ -24,7 +24,7 @@
     "nameZh": "agentskills/agentskills",
     "desc": "Agent Skills 官方规范与文档仓库",
     "descEn": "Official Agent Skills specification and documentation repository",
-    "stars": "26.3k",
+    "stars": "26.6k",
     "platform": "all",
     "category": "official",
     "url": "https://github.com/agentskills/agentskills"
@@ -34,7 +34,7 @@
     "nameZh": "anthropics/skills",
     "desc": "Anthropic 官方 Agent Skills 仓库",
     "descEn": "Official Anthropic Agent Skills repository",
-    "stars": "182.0k",
+    "stars": "183.8k",
     "platform": "all",
     "category": "official",
     "url": "https://github.com/anthropics/skills"
@@ -204,7 +204,7 @@
     "nameZh": "mblode/agent-skills",
     "desc": "开源 Agent Skills 合集，覆盖 UI 审计、排版、文档、PR 审查与发布",
     "descEn": "Open-source agent skills for UI audits, typography, documentation, PR review, and releases",
-    "stars": "151",
+    "stars": "166",
     "platform": "all",
     "category": "collection",
     "url": "https://github.com/mblode/agent-skills"
@@ -224,7 +224,7 @@
     "nameZh": "ComposioHQ/awesome-claude-skills",
     "desc": "Composio 维护的 Claude Skills 合集",
     "descEn": "Claude Skills collection by Composio",
-    "stars": "77.4k",
+    "stars": "77.9k",
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/ComposioHQ/awesome-claude-skills"
@@ -234,7 +234,7 @@
     "nameZh": "awesome-claude-code",
     "desc": "Claude Code skills/hooks/插件合集",
     "descEn": "Claude Code skills/hooks/plugins collection",
-    "stars": "56.0k",
+    "stars": "56.5k",
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/hesreallyhim/awesome-claude-code"
@@ -304,7 +304,7 @@
     "nameZh": "claude-code-kit",
     "desc": "Claude Code 工具包，自动激活 skills",
     "descEn": "Claude Code toolkit with auto-activating skills",
-    "stars": "107",
+    "stars": "110",
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/blencorp/claude-code-kit"
@@ -334,7 +334,7 @@
     "nameZh": "OrkasVideoStudio",
     "desc": "面向 Agent 的视频制作 Skills 合集，配套 CLI 与 MCP 运行时",
     "descEn": "Agent video-production skill pack with CLI and MCP runtime",
-    "stars": "331",
+    "stars": "328",
     "platform": "all",
     "category": "collection",
     "url": "https://github.com/Orkas-AI/Orkas-VideoStudio"
@@ -344,7 +344,7 @@
     "nameZh": "Skywork-Skills",
     "desc": "Skywork 官方维护的 agent skills，面向 AI 办公场景，覆盖 PPT、文档、Excel、设计、搜索和音乐工作流",
     "descEn": "Officially maintained Skywork agent skills for AI office workflows, including PPT, documents, Excel, design, search, and music",
-    "stars": "204",
+    "stars": "205",
     "platform": "all",
     "category": "collection",
     "url": "https://github.com/SkyworkAI/Skywork-Skills"
@@ -354,7 +354,7 @@
     "nameZh": "suede-creator-skills",
     "desc": "面向 Claude Code 与 Codex 的 Skills 合集，覆盖代码质量与评审、设计、营销与 SEO、Agent 工作流和移动应用发布",
     "descEn": "Skills pack for Claude Code and Codex covering code review and grading, design, marketing and SEO, agent workflows, and mobile app shipping",
-    "stars": "127",
+    "stars": "125",
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
@@ -398,6 +398,16 @@
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/first-fluke/oh-my-agent"
+  },
+  {
+    "name": "Arcmira: YouTube Transcript Search",
+    "nameZh": "Arcmira: YouTube Transcript Search",
+    "desc": "六个研究 Skills，支持转录搜索、带时间戳的引文、人物出场、赞助商研究和提及监控。需要 Arcmira 账户；以 JavaScript 程序形式将问题发送到托管 MCP 服务，工具调用记录关联到账户并用于产品分析（数据处理、隐私政策、服务条款）。插件及其内置 Skills 采用 Apache-2.0，独立 MCP 服务器为专有软件",
+    "descEn": "Six research skills for transcript search, timestamped quotes, speaker appearances, sponsors and mention monitors. Requires an Arcmira account; sends questions as JavaScript programs to the hosted MCP service, which records account-linked tool calls for product analytics (data handling, privacy, terms). The plugin and bundled skills use Apache-2.0; the separate MCP server is proprietary",
+    "stars": "75",
+    "platform": "all",
+    "category": "collection",
+    "url": "https://github.com/arcmira/mcp/tree/master/plugins/arcmira"
   },
   {
     "name": "agenttrace-session-audit",
@@ -514,7 +524,7 @@
     "nameZh": "vercel-labs/agent-skills",
     "desc": "Vercel React/Web 设计最佳实践 Skills",
     "descEn": "Vercel React/Web design best practices Skills",
-    "stars": "32.6k",
+    "stars": "33.0k",
     "platform": "all",
     "category": "devtools",
     "url": "https://github.com/vercel-labs/agent-skills"
@@ -554,7 +564,7 @@
     "nameZh": "expo/skills",
     "desc": "Expo/React Native 开发 Skills",
     "descEn": "Expo/React Native development Skills",
-    "stars": "2.9k",
+    "stars": "3.0k",
     "platform": "all",
     "category": "devtools",
     "url": "https://github.com/expo/skills"
@@ -564,7 +574,7 @@
     "nameZh": "browser-use/browser-use",
     "desc": "浏览器自动化 Skill",
     "descEn": "Browser automation Skill",
-    "stars": "118.4k",
+    "stars": "119.1k",
     "platform": "all",
     "category": "devtools",
     "url": "https://github.com/browser-use/browser-use"
@@ -574,7 +584,7 @@
     "nameZh": "Xquik x-twitter-scraper",
     "desc": "X（Twitter）数据平台 Skill，提供 REST API、MCP 工具、webhooks、SDK 和自动化工作流",
     "descEn": "X (Twitter) data Skill with REST endpoints, MCP tools, webhooks, SDKs, and automation workflows",
-    "stars": "214",
+    "stars": "220",
     "platform": "all",
     "category": "devtools",
     "url": "https://github.com/Xquik-dev/x-twitter-scraper"
@@ -754,7 +764,7 @@
     "nameZh": "obra/superpowers",
     "desc": "完整开发工作流（调试/TDD/代码审查/计划）",
     "descEn": "Complete dev workflow (Debug/TDD/Code Review/Planning)",
-    "stars": "301.7k",
+    "stars": "305.1k",
     "platform": "all",
     "category": "productivity",
     "url": "https://github.com/obra/superpowers"
@@ -784,7 +794,7 @@
     "nameZh": "coreyhaines31/marketingskills",
     "desc": "营销 Skills（SEO/文案/CRO/广告）",
     "descEn": "Marketing Skills (SEO/Copywriting/CRO/Ads)",
-    "stars": "55.4k",
+    "stars": "56.5k",
     "platform": "all",
     "category": "productivity",
     "url": "https://github.com/coreyhaines31/marketingskills"
