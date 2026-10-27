@@ -920,6 +920,16 @@
     "url": "https://github.com/voygr-tech/placecall/tree/main/skills/placecall"
   },
   {
+    "name": "new-term-radar",
+    "nameZh": "new-term-radar",
+    "desc": "发现 X、Hugging Face、GitHub 和 sitemap 上刚出现的 AI 模型、产品和仓库名，用 Google Ads 搜索量和 DataForSEO Trends（对 Google 搜索热度的估算）给背后的搜索词排优先级。3 个 Skill 和一个 MCP 服务器；需要 AIsa API key，可选的 GoAnyAPI key 会加上 Google Trends 相关搜索和分国家的趋势",
+    "descEn": "Spots new AI model, product and repo names on X, Hugging Face, GitHub and sitemaps, then ranks the search terms behind them by Google Ads volume and DataForSEO Trends (an estimate of Google search interest). Three skills and an MCP server; needs an AIsa API key, and an optional GoAnyAPI key adds Google Trends related queries and country-level trend series",
+    "stars": "-",
+    "platform": "all",
+    "category": "productivity",
+    "url": "https://github.com/zhuyansen/new-term-radar"
+  },
+  {
     "name": "devops-claude-skills",
     "nameZh": "devops-claude-skills",
     "desc": "DevOps 工作流市场，含 Terraform/K8s",
