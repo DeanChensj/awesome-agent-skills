@@ -410,6 +410,16 @@
     "url": "https://github.com/arcmira/mcp/tree/master/plugins/arcmira"
   },
   {
+    "name": "firecrawl/skills",
+    "nameZh": "firecrawl/skills",
+    "desc": "Firecrawl 官方 Skills：网页搜索、抓取、爬取与浏览器交互；调用 Firecrawl API（需 API Key 或自托管）",
+    "descEn": "Official Firecrawl skills for web search, scraping, crawling and browser interaction; they call the Firecrawl API (API key or self-hosted)",
+    "stars": "135",
+    "platform": "all",
+    "category": "collection",
+    "url": "https://github.com/firecrawl/skills"
+  },
+  {
     "name": "agenttrace-session-audit",
     "nameZh": "agenttrace-session-audit",
     "desc": "审计本地 AI 编程 Agent 会话的健康度、成本、失败与差异",
