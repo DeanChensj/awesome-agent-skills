@@ -191,6 +191,7 @@ git clone https://github.com/example/my-skill.git ~/.cursor/skills/my-skill
 | youtube-skills | 面向 YouTube 的转录、视频搜索、频道浏览与播放列表 Skills，适用于 Claude Code、OpenClaw、Hermes Agent 等 Agent 运行时 | 1.1k | [GitHub](https://github.com/ZeroPointRepo/youtube-skills) |
 | tonone | Claude Code 插件，包含 100 个专业 Agent 与 429 个 Skills，覆盖工程、产品、设计、安全、法务和运维；SessionStart hook 仅加载与当前仓库相关的 Skills | 76 | [GitHub](https://github.com/tonone-ai/tonone) |
 | oh-my-agent | 33 个技能和 21 个工作流，统一放在 `.agents/skills`，按条目软链接到 Claude Code、Codex、Cursor 等工具的技能目录；`oma link --dry-run` 先预览要写的文件 | 1.4k | [GitHub](https://github.com/first-fluke/oh-my-agent) |
+| sno-station-skills | 面向 Claude Code 与 Codex 的 Skills 合集：两家模型互相审查、一个 Agent 用到额度上限时交给另一个接着做，以及任务委派与汇报 | 883 | [GitHub](https://github.com/sno-ai/sno-station-skills) |
 | Arcmira: YouTube Transcript Search | 六个研究 Skills，支持转录搜索、带时间戳的引文、人物出场、赞助商研究和提及监控。需要 Arcmira 账户；以 JavaScript 程序形式将问题发送到托管 MCP 服务，工具调用记录关联到账户并用于产品分析（[数据处理](https://github.com/arcmira/mcp#what-we-log)、[隐私政策](https://arcmira.com/privacy)、[服务条款](https://arcmira.com/terms)）。插件及其内置 Skills 采用 [Apache-2.0](https://github.com/arcmira/mcp/blob/master/plugins/arcmira/LICENSE)，独立 MCP 服务器为专有软件 | 75 | [GitHub](https://github.com/arcmira/mcp/tree/master/plugins/arcmira) |
 | firecrawl/skills | Firecrawl 官方 Skills：网页搜索、抓取、爬取与浏览器交互；调用 Firecrawl API（需 API Key 或自托管） | 135 | [GitHub](https://github.com/firecrawl/skills) |
 
