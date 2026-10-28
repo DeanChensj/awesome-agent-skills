@@ -400,6 +400,16 @@
     "url": "https://github.com/first-fluke/oh-my-agent"
   },
   {
+    "name": "sno-station-skills",
+    "nameZh": "sno-station-skills",
+    "desc": "面向 Claude Code 与 Codex 的 Skills 合集：两家模型互相审查、一个 Agent 用到额度上限时交给另一个接着做，以及任务委派与汇报",
+    "descEn": "Skills for Claude Code and Codex: cross-vendor peer review, handoff when one agent hits its usage limit, delegation and reporting",
+    "stars": "883",
+    "platform": "claude",
+    "category": "collection",
+    "url": "https://github.com/sno-ai/sno-station-skills"
+  },
+  {
     "name": "Arcmira: YouTube Transcript Search",
     "nameZh": "Arcmira: YouTube Transcript Search",
     "desc": "六个研究 Skills，支持转录搜索、带时间戳的引文、人物出场、赞助商研究和提及监控。需要 Arcmira 账户；以 JavaScript 程序形式将问题发送到托管 MCP 服务，工具调用记录关联到账户并用于产品分析（数据处理、隐私政策、服务条款）。插件及其内置 Skills 采用 Apache-2.0，独立 MCP 服务器为专有软件",
